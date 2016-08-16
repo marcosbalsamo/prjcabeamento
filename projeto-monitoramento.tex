@@ -60,7 +60,7 @@
 %% ====================================
 %% ====================================
 
-\lfoot{\footnotesize \texttt{Cabeamento estruturado} \textbullet ~Modelo de projeto}
+\lfoot{\footnotesize \texttt{Cabeamento estruturado} \textbullet ~ Monitoramento Colaborativo}
 
 
 \cfoot{}
@@ -197,11 +197,7 @@ Aplicativos utilizados para segurança e monitoramento:
 \end{itemize}
 
 \section{Estrutura predial existente}
-
-Explique aqui a planta física dos prédios
-Pode ser anexada, em escala ou não.
-
-Deve conter uma descrição geral, indicando a possível distância entre os pontos de rede e restrições de instalação.
+São 5 salas comerciais distribuídas em quadra de 100 metros com 5 residencias.
 
 \section{Planta Lógica - Elementos estruturados}
 
@@ -209,14 +205,16 @@ Deve conter uma descrição geral, indicando a possível distância entre os pon
 Deve ter a planta atual, se for o caso
 
 \subsection{Topologia}
-Proposta futura, proposta após implantação.
-Deve conter o diagrama da rede. Atente-se a redundância  e ligações truncadas.
-Deve explicar todos termos e componentes utilizados nestas plantas. Por exemplo: entrance facility, work area, horizontal cabling, etc..
+A proposta futura, é que os estabelecimentos e as residencias estejam interligadas com link redundante, cada estabelecimento e residencias com sua VLAN própria, e as todas as câmeras na mesma VLAN. O gerenciamento de internet, firewall e o servidor dhcp estarão centralizados.
 
-Todos os elementos das figuras devem ser explicados. 
-Crie esboço da configuração dos racks e brackets. Explique cada um dos componentes. Você pode criar uma tabela contendo figuras dentro, ou criar uma tabela e incluí-la como imagem. Por exemplo, verifique a tabela \ref{tab1}.
 
-\input{tab1}
+\begin{figure}
+	\centering
+	\includegraphics[]{rede}
+	\caption{Topologia de rede}
+	\label{rede}
+\end{figure}
+
 
 \subsection{Encaminhamento}
 Eletrodutos, calhas, e qualquer material em que os cabos serão alojados/alocados.
@@ -321,12 +319,6 @@ Não se preocupe o local em que a figura será renderizada em seu texto. Preocup
 \end{figure}
 
 
-\begin{figure}
-	\centering
-	\includegraphics[]{fig2}
-	\caption{Exemplo de figura sem escala}
-	\label{fig2}
-\end{figure}
 
 Você pode rotacionar figuras também. Para isso utilize o parâmetro angle=-90. Repare que a escala da figura foi modificada pelo parametro height. Você também pode utilizar scale
 
