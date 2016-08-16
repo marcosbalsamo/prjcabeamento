@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.16)  16 AUG 2016 13:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.16)  16 AUG 2016 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **modelo_projeto.tex
 (./modelo_projeto.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 3 languages loaded.
+Babel <3.9h> and hyphenation patterns for 5 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2013/12/19 v3.12 KOMA-Script document class (article)
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -123,8 +123,6 @@ File: babel.def 2013/12/03 3.9h Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 )
-\l@british = a dialect from \language\l@english 
-\l@UKenglish = a dialect from \language\l@english 
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
@@ -925,13 +923,13 @@ Package microtype Info: Loading generic settings for font family
 <utfpr.jpeg, id=1, 97.36375pt x 35.13126pt>
 File: utfpr.jpeg Graphic file (type jpg)
  <use utfpr.jpeg>
-Package pdftex.def Info: utfpr.jpeg used on input line 143.
+Package pdftex.def Info: utfpr.jpeg used on input line 141.
 (pdftex.def)             Requested size: 97.3635pt x 35.13115pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./utfpr.jpeg>]
-Package tocbasic Info: character protrusion at lof deactivated on input line 15
-1.
+Package tocbasic Info: character protrusion at lof deactivated on input line 14
+9.
  (./modelo_projeto.lof
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
@@ -953,7 +951,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \openout3 = `modelo_projeto.lof'.
 
 Package tocbasic Info: character protrusion at lot deactivated on input line 15
-4.
+2.
 
 (./modelo_projeto.lot)
 \tf@lot=\write4
@@ -963,18 +961,18 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 157.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 157.
 [2
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 16
-1.
+Package tocbasic Info: character protrusion at toc deactivated on input line 15
+9.
  (./modelo_projeto.toc)
 \tf@toc=\write5
 \openout5 = `modelo_projeto.toc'.
@@ -983,7 +981,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 16
 
 ]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 184.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 182.
  [4
 
 ] (./tab1.tex
@@ -998,7 +996,7 @@ Package pdftex.def Info: fig1.png used on input line 9.
 (pdftex.def)             Requested size: 121.65234pt x 84.715pt.
 )
 [5 <./fig1.png>]
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 241--246
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 239--244
 []\OT1/cmr/m/n/12 (-20) Segue uma rela^^Xc~ao de fer-ra-men-tas: http://asana.c
 om/, https://trello.com/, http://www.ganttproject.biz/,
  []
@@ -1006,48 +1004,51 @@ om/, https://trello.com/, http://www.ganttproject.biz/,
 (./modelo_projeto.bbl [6]) (./tab2.tex)
 File: fig1.png Graphic file (type png)
  <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 320.
+Package pdftex.def Info: fig1.png used on input line 318.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
  [7]
 <fig2.png, id=43, 214.8025pt x 516.93124pt>
 File: fig2.png Graphic file (type png)
  <use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 328.
+Package pdftex.def Info: fig2.png used on input line 326.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
 
 <fig3.jpg, id=44, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
  <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg used on input line 337.
+Package pdftex.def Info: fig3.jpg used on input line 335.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
 
 
 AED: lastpage setting LastPage
-[8] [9 <./fig2.png>] [10 <./fig3.jpg>] (./modelo_projeto.aux) ) 
+[8] [9 <./fig2.png>] [10 <./fig3.jpg>] (./modelo_projeto.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 10374 strings out of 495004
- 158789 string characters out of 6180662
- 413517 words of memory out of 5000000
- 13268 multiletter control sequences out of 15000+600000
+ 10372 strings out of 494963
+ 158769 string characters out of 6179647
+ 413686 words of memory out of 5000000
+ 13273 multiletter control sequences out of 15000+600000
  26889 words of font info for 97 fonts, out of 8000000 for 9000
- 16 hyphenation exceptions out of 8191
+ 38 hyphenation exceptions out of 8191
  54i,13n,52p,1020b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texl
-ive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
-17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/helvetic/uhvro8a.pfb>
-Output written on modelo_projeto.pdf (10 pages, 1924158 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on modelo_projeto.pdf (10 pages, 1923838 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
